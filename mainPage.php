@@ -18,7 +18,7 @@
 		<div class="content">
         <form action="addInDb.php" method="POST">
             <p><b>Есть что рассказать?</b></p>
-            <p><textarea cols="60" rows="5" placeholder="Я сходил покушать"></textarea></p>
+            <p><textarea name="text" cols="60" rows="5" placeholder="Я сходил покушать"></textarea></p>
             <p><a class="bot8"  href="#">Поделиться</a></p>
         </form>
 		</div>
